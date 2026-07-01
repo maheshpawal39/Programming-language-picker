@@ -135,7 +135,7 @@ streamlit>=1.35.0
 
 **Mahesh Pawal**
 
-GitHub: https://github.com/yourusername
+GitHub: https://github.com/maheshpawal39
 
 ---
 
