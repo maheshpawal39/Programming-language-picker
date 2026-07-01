@@ -13,9 +13,6 @@ A simple and interactive **Streamlit** web application that allows users to sele
 assets/
 └── screenshot.png
 ```
-
-![App Screenshot](assets/screenshot.png)
-
 <img width="1908" height="1028" alt="image" src="https://github.com/user-attachments/assets/d32c9770-6828-44be-86f5-79c4e8e57963" />
 
 ## ✨ Features
